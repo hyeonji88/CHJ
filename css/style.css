@@ -321,9 +321,18 @@ a {
         /* z-index: 1; }  */
         /* swiper-slide plugin */
 
+        /* 추가 */
+        .carousel-control-prev-icon {
+            background-size: 50%;
+        }
+        .carousel-control-next-icon {
+            background-size: 50%;
+        }
+
+        /* 수정 */
 .carousel-inner{text-align: center;}
 .carousel-control-next-icon,
-.carousel-control-prev-icon{background-color: #21718a; border-radius: 80%;}
+.carousel-control-prev-icon{background-color: #21718a; border-radius: 50%; width: 50px; height: 50px;}
 
 
 #wrap .detail {padding-top: 80px;}
