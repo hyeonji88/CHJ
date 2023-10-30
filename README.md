@@ -1,1 +1,1 @@
-# CHJ
+# Choi hyeonji portfolio
